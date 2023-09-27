@@ -1,0 +1,19 @@
+header
+{background-color: #228B22;
+  font-family: "Comic Sans Ms", 
+fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 20%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: left;
+}
+footer
+{background-color: #228B22;
+  font-family: "Comic Sans Ms", fantasy;
+  font-size: 1em;
+}
